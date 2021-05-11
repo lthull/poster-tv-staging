@@ -1,8 +1,8 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/lthull/poster-tv-staging/releases/download/linux-x64-prod-1.5.0/poster-tv-app-1.5.0.AppImage",
-    "install": "https://github.com/lthull/poster-tv-staging/releases/download/linux-x64-prod-1.5.0/poster-tv-app-1.5.0.AppImage",
-    "version": "1.5.0",
-    "sha256": "400dbb78ebbc7bccd141b7534bbe944761cd5015ca72cfda3c499e759e6630a6"
+    "update": "https://github.com/lthull/poster-tv-staging/releases/download/linux-x64-prod-1.5.5/poster-tv-app-1.5.5.AppImage",
+    "install": "https://github.com/lthull/poster-tv-staging/releases/download/linux-x64-prod-1.5.5/poster-tv-app-1.5.5.AppImage",
+    "version": "1.5.5",
+    "sha256": "1abf1277fc69d7ced3afa6bd7bc29425249762852b22057ba4a0eea86599ba17"
   }
 }
