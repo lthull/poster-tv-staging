@@ -1,8 +1,8 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/realvogtdominik/poster-tv-staging/releases/download/linux-x64-prod-1.20230201.1/poster-tv-app-1.20230201.1.AppImage",
-    "install": "https://github.com/realvogtdominik/poster-tv-staging/releases/download/linux-x64-prod-1.20230201.1/poster-tv-app-1.20230201.1.AppImage",
-    "version": "1.20230201.1",
-    "sha256": "f875bbc00087b15b09128cd2cac3b6a5c94b1122c7552270bb31f6b54cb405d5"
+    "update": "https://github.com/realvogtdominik/poster-tv-staging/releases/download/linux-x64-prod-1.20230214.1/poster-tv-app-1.20230214.1.AppImage",
+    "install": "https://github.com/realvogtdominik/poster-tv-staging/releases/download/linux-x64-prod-1.20230214.1/poster-tv-app-1.20230214.1.AppImage",
+    "version": "1.20230214.1",
+    "sha256": "4bad0c9fb17dea847fec0e6216f8d3dbdd545ef68ecc6a3af5744b9da53c0a59"
   }
 }
